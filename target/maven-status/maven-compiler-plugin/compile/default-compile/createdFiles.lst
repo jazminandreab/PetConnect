@@ -1,0 +1,5 @@
+com\petconnect\PetConnect.class
+com\petconnect\Usuario.class
+com\petconnect\Mascota.class
+com\petconnect\Conexion.class
+com\petconnect\MascotaDAO.class
